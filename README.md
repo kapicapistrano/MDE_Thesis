@@ -10,5 +10,5 @@ This project site contains R Markdown Documents which serve as annexes for my th
 - Annex C: Regression Analyes
   - C1: [All LGUs](https://kapicapistrano.github.io/MDE_Thesis/Capistrano-Thesis-Annex-C1-All-LGUs.html)
   - C2: [Municipalities](https://kapicapistrano.github.io/MDE_Thesis/Capistrano-Thesis-Annex-C2-Municipalities.html)
-  - C3: [Cities](https://kapicapistrano.github.io/MDE_Thesis/Capistrano-Thesis-Annex-C3_Cities.html)
+  - C3: [Cities](https://kapicapistrano.github.io/MDE_Thesis/Capistrano-Thesis-Annex-C3-Cities.html)
   - C4: [Provinces](https://kapicapistrano.github.io/MDE_Thesis/Capistrano-Thesis-Annex-C4-Provinces.html)

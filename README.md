@@ -1,7 +1,7 @@
 #  Do Citizens' Voices Count in Local Spending?
 
 **An Empirical Study on the Effects of Citizen Participation on Local Budget Performance**  
-***by Francis Y. Capistrano (as of 30 June 2023)***
+***by Francis Y. Capistrano (as of 30 August 2023)***
 
 
 This project site contains R Markdown Documents which serve as annexes for my thesis. Click below to see the said annexes:

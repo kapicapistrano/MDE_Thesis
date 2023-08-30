@@ -6,9 +6,7 @@
 
 This project site contains R Markdown Documents which serve as annexes for my thesis. Click below to see the said annexes:
 
-- Annex B: [Exploratory Data Analysis](https://kapicapistrano.github.io/MDE_Thesis/Capistrano-Thesis-Annex-B-EDA.html)
+- Annex B: [Exploratory Data Analysis](https://github.com/kapicapistrano/MDE_Thesis/blob/main/Capistrano-Thesis-Annex-B-EDA--20230821-.html)
 - Annex C: Regression Analyes
-  - C1: [All LGUs](https://kapicapistrano.github.io/MDE_Thesis/Capistrano-Thesis-Annex-C1-All-LGUs.html)
-  - C2: [Municipalities](https://kapicapistrano.github.io/MDE_Thesis/Capistrano-Thesis-Annex-C2-Municipalities.html)
-  - C3: [Cities](https://kapicapistrano.github.io/MDE_Thesis/Capistrano-Thesis-Annex-C3-Cities.html)
-  - C4: [Provinces](https://kapicapistrano.github.io/MDE_Thesis/Capistrano-Thesis-Annex-C4-Provinces.html)
+  - C1: [All LGUs](https://github.com/kapicapistrano/MDE_Thesis/blob/main/Capistrano-Thesis-Annex-C1-All-LGUs--20230821-.html)
+  - C2: [By LGU Type](https://github.com/kapicapistrano/MDE_Thesis/blob/main/Capistrano-Thesis-Annex-C2-Per-LGU-Type--20230826-.html)

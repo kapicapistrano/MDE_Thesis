@@ -11,7 +11,7 @@ This study contributes to the body of empirical evidence showing that participat
 
 Though this study does not claim to establish causality, it nevertheless affirms the policy direction to broaden and deepen participatory governance. Nevertheless, reforms are needed to produce more substantive metrics of CSO and citizen participation, to understand and improve the enabling environment for participation, and to invest in studies that establish the elusive impacts of participatory governance.
 
-[Find the thesis text here](https://github.com/kapicapistrano/MDE_Thesis/blob/main/Econ300_2023_Capistrano.pdf)
+[Find the thesis text here](https://kapicapistrano.github.io/MDE_Thesis/Econ300_2023_Capistrano.pdf)
 
 R Markdown Documents for the annexes:
 - Annex B: [Exploratory Data Analysis](https://kapicapistrano.github.io/MDE_Thesis/Capistrano-Thesis-Annex-B-EDA--20230821-.html)

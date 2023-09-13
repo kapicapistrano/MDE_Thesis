@@ -13,7 +13,7 @@ Though this study does not claim to establish causality, it nevertheless affirms
 
 [Find the thesis text here](https://github.com/kapicapistrano/MDE_Thesis/blob/main/Econ300_2023_Capistrano.pdf)
 
-R Markdown Documents for the annexes of my thesis:
+R Markdown Documents for the annexes:
 - Annex B: [Exploratory Data Analysis](https://kapicapistrano.github.io/MDE_Thesis/Capistrano-Thesis-Annex-B-EDA--20230821-.html)
 - Annex C: Regression Analyes
   - C1: [All LGUs](https://kapicapistrano.github.io/MDE_Thesis/Capistrano-Thesis-Annex-C1-All-LGUs--20230821-.html)
